@@ -1,5 +1,2 @@
-jskkk kkkmnhyygh
-njjy mmkkkij
-nhgghjj
-mjkiusdhyuydshjdhusiydhu bjhghg jshjkydj
-mncjhsjh nsdhjsk6jjhj mjshdjksj!
+FROM tomcat:8
+COPY target/*.war /user/local/tomcat/webapps/
